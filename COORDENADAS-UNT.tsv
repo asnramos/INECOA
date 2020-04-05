@@ -1,0 +1,79 @@
+	Unnamed: 0	Latitud	Longitud	Altura	Taxa	Mes	Anio	Titulo	Descripcion	Institucion	Fuente	Contacto
+0	0	-24.013556	-66.514667	<b>4168</b><br><u>MSNM</u><br><i>Punto de Prueba</i>	3	Marzo	2006.0	Roedores	Altos Andes	UNT	"Museo Argentino de Ciencias Naturales ""Bernardino Rivadavia"""	ARG
+1	1	-23.665433	-65.298617	4101	7			Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	LT-RMB
+2	2	-23.6628	-65.335475	4214	10	Febrero	1931.0	Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	E. Budin
+3	3	-23.6584	-65.328017	4273	3			Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	LT-RMB
+4	4	-23.473983	-66.793311	4262	1	Enero	2010.0	Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	LIF
+5	5	-23.403	-66.513361	4090	1	Diciembre	2004.0	Roedores	Altos Andes	UNT	Instituto Argentino de Investigaciones de las Zonas Áridas -COLECCIÓN MASTOZOOLÓGICA	CL
+6	6	-23.387139	-66.544389	4180	2	Diciembre	2004.0	Roedores	Altos Andes	UNT	Instituto Argentino de Investigaciones de las Zonas Áridas -COLECCIÓN MASTOZOOLÓGICA	CL
+7	7	-23.268776	-66.456802	4114	2	Diciembre	1995.0	Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	MMD
+8	10	-23.1275	-65.203056	4043	2	Agosto	2002.0	Roedores	Altos Andes	UNT	Centro Nacional Patagónico Colección Mamíferos	UP
+9	11	-22.930233	-66.312469	4163	1	Marzo	1998.0	Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	MMD
+10	20	-24.013556	-66.514667	4168	3	Marzo	2006.0	Roedores	Altos Andes	UNT	"Museo Argentino de Ciencias Naturales ""Bernardino Rivadavia"""	ARG
+11	21	-23.665433	-65.298617	4101	7			Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	LT-RMB
+12	22	-23.6628	-65.335475	4214	10	Febrero	1931.0	Roedores	Altos Andes	UNT	"Museo Argentino de Ciencias Naturales ""Bernardino Rivadavia"""	E. Budin
+13	23	-23.6584	-65.328017	4273	3			Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	LT-RMB
+14	24	-23.473983	-66.793311	4262	1	Enero	2010.0	Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	LIF
+15	25	-23.403	-66.513361	4090	1	Diciembre	2004.0	Roedores	Altos Andes	UNT	Instituto Argentino de Investigaciones de las Zonas Áridas -COLECCIÓN MASTOZOOLÓGICA	CL
+16	26	-23.387139	-66.544389	4180	2	Diciembre	2004.0	Roedores	Altos Andes	UNT	Instituto Argentino de Investigaciones de las Zonas Áridas -COLECCIÓN MASTOZOOLÓGICA	CL
+17	27	-23.268776	-66.456802	4114	2	Diciembre	1995.0	Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	MMD
+18	30	-23.1275	-65.203056	4043	2	Agosto	2002.0	Roedores	Altos Andes	UNT	Centro Nacional Patagónico Colección Mamíferos	UP
+19	31	-22.930233	-66.312469	4163	1	Marzo	1998.0	Roedores	Altos Andes	UNT	Colección Mamíferos Lillo	MMD
+20	48	-23.845755	-66.79643	3918	1	Mayo	1996.0	Roedores	Puna	UNT	Colección Mamíferos Lillo	MMD
+21	49	-23.7	-65.7	3842	1		2006.0	Roedores	Puna	UNT	Díaz y Barquez, 2007	Díaz y Barquez
+22	50	-23.687611	-65.700081	3844	3	Agosto	2004.0	Roedores	Puna	UNT	Instituto Argentino de Investigaciones de las Zonas Áridas -COLECCIÓN MASTOZOOLÓGICA	LAB
+23	51	-23.530705	-66.639841	3919	1	Diciembre	2009.0	Roedores	Puna	UNT	Colección Mamíferos Lillo	LIF
+24	52	-23.400196	-66.370504	3682	1		2006.0	Roedores	Puna	UNT	Díaz y Barquez, 2007	Díaz y Barquez, 2007
+25	53	-23.393256	-65.788017	3457	3	Diciembre	1995.0	Roedores	Puna	UNT	Colección Mamíferos Lillo	MMD
+26	54	-23.328803	-66.597625	3915	2	Mayo	1996.0	Roedores	Puna	UNT	Colección Mamíferos Lillo	MMD
+27	56	-23.204197	-65.240358	3562	2	Febrero	1991.0	Roedores	Puna	UNT	Instituto Argentino de Investigaciones de las Zonas Áridas -COLECCIÓN MASTOZOOLÓGICA	ARG
+28	57	-23.201111	-65.233056	3630	3	Agosto	2002.0	Roedores	Puna	UNT	Centro Nacional Patagonico Colección Mamíferos	UP
+29	58	-22.99426	-66.007326	3450	2		2006.0	Roedores	Puna	UNT	Díaz y Barquez, 2007	Díaz y Barquez
+30	59	-22.947097	-65.509905	3608	1	Agosto	1987.0	Roedores	Puna	UNT	Museo de Mar del Plata Colección Mamíferos	M. Ortells
+31	60	-22.918405	-65.589538	3701	1	Septiembre	1987.0	Roedores	Puna	UNT	Museo de Mar del Plata Colección Mamíferos	M. Ortells
+32	61	-22.843806	-65.684167	3578	2	Diciembre	2004.0	Roedores	Puna	UNT	Instituto Argentino de Investigaciones de las Zonas Áridas -COLECCIÓN MASTOZOOLÓGICA	CL
+33	91	-23.699167	-65.53492	2625	1	Febrero	1958.0	Roedores	Monte de Sierras y Bolsones	UNT	Colección Mamíferos Lillo	O. Budin
+34	92	-23.689816	-65.563641	2765	1	Febrero	1991.0	Roedores	Monte de Sierras y Bolsones	UNT	Colección Mamíferos Lillo	N. P. Giannini
+35	93	-23.666667	-65.583333	3094	4	Diciembre	1995.0	Roedores	Monte de Sierras y Bolsones	UNT	Colección Mamíferos Lillo	MMD
+36	94	-23.624608	-65.408761	2400	8	Diciembre	1930.0	Roedores	Monte de Sierras y Bolsones	UNT	Museo Argentino de Cs. Naturales	E. Budin
+37	95	-23.601369	-65.406188	2438	3	Mayo	1986.0	Roedores	Monte de Sierras y Bolsones	UNT	Museo de Mar del Plata Colección Mamíferos	O.Scaglia
+38	96	-23.588056	-65.3675	2955	3	Agosto	2002.0	Roedores	Monte de Sierras y Bolsones	UNT	Centro Nacional Patagónico Colección Mamíferos	UP
+39	98	-23.563086	-65.361742	3156	3	Junio	1997.0	Roedores	Monte de Sierras y Bolsones	UNT	Colección Mamíferos Lillo	MMD
+40	99	-23.3661	-65.367106	2846	1	Junio	1997.0	Roedores	Monte de Sierras y Bolsones	UNT	Colección Mamíferos Lillo	MMD
+41	100	-23.205195	-65.343981	2950	1	Abril	1917.0	Roedores	Monte de Sierras y Bolsones	UNT	Museo Argentino de Cs. Naturales	E. Budin
+42	102	-24.495183	-65.306039	1367	4	Mayo	1998.0	Roedores	Yungas	UNT	MACN y CML y IADIZA-CM	PIDBA
+43	103	-24.390177	-65.364898	1414	6	Julio	1998.0	Roedores	Yungas	UNT	MACN y CML	PIDBA y ARG
+44	104	-24.326721	-65.429858	1702	5	Junio	1995.0	Roedores	Yungas	UNT	CML	MMD
+45	105	-24.313885	-64.968791	740	2			Roedores	Yungas	UNT	MACN	Instituto Maiztegui
+46	106	-24.306861	-64.504197	1363	5	Mayo	2005.0	Roedores	Yungas	UNT	MACN y CML	PIDBA
+47	107	-24.301389	-64.493889	1438	1	Junio	2001.0	Roedores	Yungas	UNT	MACN	J. P. Jayat
+48	108	-24.299017	-64.384528	2286	2	Septiembre	2002.0	Roedores	Yungas	UNT	MACN	J. P. Jayat
+49	109	-24.236179	-64.447483	1464	3	Julio	1920.0	Roedores	Yungas	UNT	MACN	E. Budin
+50	110	-24.201534	-64.403175	1274	5	Junio	1977.0	Roedores	Yungas	UNT	MACN y CML	R. M. Barquez, R. A. Ojeda
+51	111	-24.143903	-65.392847	1400	4	Mayo	1986.0	Roedores	Yungas	UNT	MMP-Ma	Scaglia - Ortells
+52	112	-24.127972	-65.487794	1898	2	Julio	1995.0	Roedores	Yungas	UNT	CML	MMD
+53	113	-24.091356	-65.175497	1178	3	Septiembre	2006.0	Roedores	Yungas	UNT	CML	PIDBA
+54	114	-24.078549	-65.428332	1637	3	Julio	2002.0	Roedores	Yungas	UNT	CNP	UP
+55	115	-24.075	-65.143333	1180	7	Mayo	2005.0	Roedores	Yungas	UNT	MACN y CML	PIDBA
+56	116	-24.073056	-65.455833	1797	4	Julio	2002.0	Roedores	Yungas	UNT	CNP	UP
+57	117	-24.075	-65.143333	1182	11	Mayo	2005.0	Roedores	Yungas	UNT	MACN y CML	PIDBA
+58	118	-24.033439	-65.111642	999	6	Agosto	1996.0	Roedores	Yungas	UNT	CML	MMD
+59	119	-23.991325	-65.316765	1538	6	Julio	1995.0	Roedores	Yungas	UNT	CML	MMD
+60	120	-23.990369	-65.308225	1500	6	Agosto	1998.0	Roedores	Yungas	UNT	CML	PIDBA
+61	121	-23.972819	-65.307679	1547	3	Septiembre	1995.0	Roedores	Yungas	UNT	CML	MMD
+62	122	-23.951639	-65.500333	2500	3	Septiembre	1998.0	Roedores	Yungas	UNT	CML	ARG
+63	123	-23.917495	-65.465676	2085	1	Mayo	1986.0	Roedores	Yungas	UNT	MMP-Ma	Scaglia - Ortells
+64	124	-23.856244	-64.444592	542	7	Mayo	1992.0	Roedores	Yungas	UNT	MACN	R. M. Barquez
+65	125	-23.758772	-64.849241	609	1	Agosto	1991.0	Roedores	Yungas	UNT	MACN	S. Heinonen
+66	126	-23.746714	-65.213489	2400	6			Roedores	Yungas	UNT	CML	LIF
+67	127	-23.735569	-64.850611	803	4	Agosto	1991.0	Roedores	Yungas	UNT	MACN	S. Heinonen
+68	128	-23.733863	-64.595583	385	2	Julio	1930.0	Roedores	Yungas	UNT	MACN	E. Budin
+69	129	-23.729196	-65.178898	1673	6			Roedores	Yungas	UNT	CML	LT-RMB
+70	130	-23.682061	-64.901561	1723	4	Mayo	1971.0	Roedores	Yungas	UNT	MACN y CML	C. C. Olrog, J. M. Gómez
+71	131	-23.646815	-64.591218	480	3	Junio	1991.0	Roedores	Yungas	UNT	MACN y CML	R. M. Barquez
+72	132	-23.628178	-64.455631	347	1	Diciembre	1962.0	Roedores	Yungas	UNT	MACN	A. Fornes
+73	133	-23.623902	-64.914212	2674	4	Agosto	1991.0	Roedores	Yungas	UNT	MACN	S. Heinonen
+74	134	-23.622299	-64.953728	1460	2	Noviembre	1958.0	Roedores	Yungas	UNT	CML	J. M. Gómez
+75	135	-23.606667	-64.957778	1411	5	Agosto	2002.0	Roedores	Yungas	UNT	CNP	UP
+76	136	-23.585833	-64.503611	397	1	Junio	2000.0	Roedores	Yungas	UNT	MACN	PIDBA
+77	137	-23.554722	-64.523333	538	5	Junio	2000.0	Roedores	Yungas	UNT	MACN y CML	PIDBA
